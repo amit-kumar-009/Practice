@@ -6,6 +6,7 @@ public class GitDemo {
 		System.out.println("I am 1st");
 		System.out.println("I am changing it for the 1st time");
 		System.out.println("I am creating one branch for the 1st time");
+		System.out.println("I have changed the content of branch for the 1st time");
 	}
 
 }
